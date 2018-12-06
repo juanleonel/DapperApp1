@@ -1,0 +1,14 @@
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\bin\Debug\dbTest.mdf
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\bin\Debug\dbTest_log.ldf
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\bin\Debug\DapperApp.exe.config
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\bin\Debug\DapperApp.exe
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\bin\Debug\DapperApp.pdb
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\bin\Debug\Dapper.dll
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\bin\Debug\Dapper.xml
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.Form1.resources
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.Properties.Resources.resources
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.csproj.GenerateResource.cache
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.csproj.CoreCompileInputs.cache
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.csproj.CopyComplete
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.exe
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.pdb

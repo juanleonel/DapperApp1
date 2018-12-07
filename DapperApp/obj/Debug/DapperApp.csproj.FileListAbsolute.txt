@@ -12,3 +12,4 @@ C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.csproj
 C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.csproj.CopyComplete
 C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.exe
 C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.pdb
+C:\Users\Juan Leonel\source\repos\DapperApp\DapperApp\obj\Debug\DapperApp.csprojAssemblyReference.cache

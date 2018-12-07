@@ -38,5 +38,27 @@ namespace DapperApp
             }
                
         }
+
+        private void btnGetPerson_Click(object sender, EventArgs e)
+        {
+            Connection cn = new Connection();
+            var person = cn.GetPersons();
+
+            foreach (var item in person)
+            {
+                Console.WriteLine(item.Residience.Residence);
+            }
+        }
+
+        private void btnOneToManyPerson_Click(object sender, EventArgs e)
+        {
+            Connection cn = new Connection();
+            var person = cn.GetPersonsOnetoMany();
+
+            foreach (var item in person)
+            {
+                Console.WriteLine(item.Residience.CountryName);
+            }
+        }
     }
 }
